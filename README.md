@@ -21,8 +21,9 @@ Building autonomous AI systems and intelligent automations using **Grok API**, G
 ![Success Alert (Sheets Locked with Heat Bombs)](success.png)
 
 ### Code
-key snippets available in the repo:  
-grok-tweet-engine/codesnippets
+Code and key snippets available in the repo:  
+Full engine: [grok-tweet-engine/grok-engine.gs](/grok-tweet-engine/grok-engine.gs)
+Key snippets: [grok-tweet-engine/codesnippets.md](/grok-tweet-engine/codesnippets.md) (if you added it)
 
 More projects coming soon:
 - Personal Daily AI Agent
