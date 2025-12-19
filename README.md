@@ -28,9 +28,9 @@ More projects coming soon:
 
 ![Tech Tweets Generated](tech.png)
 
-![Sports Tweets Generated](Sports.png)
-
 ![Success Confirmation](success.png)
+
+![Sports Tweets Generated](Sports.png)
 
 
 ⭐ Star if you're building the future!
