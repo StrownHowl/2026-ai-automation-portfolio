@@ -2,8 +2,6 @@
 
 Building autonomous AI systems and intelligent automations using **Grok API**, Google Apps Script, n8n, and more.
 
-Real-world projects focused on agentic AI—the most in-demand skills for 2026.
-
 ## Featured Project #1: Grok Tweet Engine
 - Fully automated viral tweet generator for tech + sports
 - Pulls fresh RSS feeds → Uses Grok-4 for ice-cold, early-20s style tweets (24–31 words)
