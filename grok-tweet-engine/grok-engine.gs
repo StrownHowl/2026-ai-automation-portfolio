@@ -168,15 +168,6 @@ function enforce24to31(text, link, isOpinionMode) {
   return clean;
 }
 
-function getRealImage(link) {
-  try {
-    const html = UrlFetchApp.fetch(link, {muteHttpExceptions: true, followRedirects: true}).getContentText();
-    const og = html.match(/property="og:image" content="([^"]+)"/);
-    const tw = html.match(/name="twitter:image" content="([^"]+)"/);
-    return (og ? og[1] : (tw ? tw[1] : ""));
-  } catch(e) { return ""; }
-}
-
 function insertBigPreviews(sheet) {
   const last = sheet.getLastRow();
   if (last < 2) return;
@@ -189,16 +180,4 @@ function insertBigPreviews(sheet) {
   });
   sheet.setColumnWidth(4, 230);
   sheet.setRowHeights(2, last-1, 220);
-}
-
-function formatSheetsPerfectly() {
-  ["Tech News", "Sports News"].forEach(name => {
-    const s = SpreadsheetApp.getActiveSpreadsheet().getSheetByName(name);
-    if (s) {
-      s.setColumnWidth(2, 650);
-      s.getRange("B:B").setWrap(true);
-      if (s.getLastRow() > 1) s.setRowHeights(2, s.getLastRow()-1, 100);
-      s.getRange("A1:D1").setFontWeight("bold").setHorizontalAlignment("center");
-    }
-  });
 }
