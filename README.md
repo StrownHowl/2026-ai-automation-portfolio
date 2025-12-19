@@ -23,7 +23,7 @@ Building autonomous AI systems and intelligent automations using **Grok API**, G
 ### Code
 Code and key snippets available in the repo:  
 Full engine: [grok-tweet-engine/grok-engine.gs](/grok-tweet-engine/grok-engine.gs)
-Key snippets: [grok-tweet-engine/codesnippets.md](/grok-tweet-engine/codesnippets.md) (if you added it)
+Key snippets: [grok-tweet-engine/codesnippets.md](/grok-tweet-engine/codesnippets.md) 
 
 More projects coming soon:
 - Personal Daily AI Agent
