@@ -34,6 +34,6 @@ More projects coming soon:
 
 ![Success](success.png)
 
-⭐ Star if you're building the future!
+I was super irritated doing this but did it anyway
 
 *Watch this repo—updates weekly.*
