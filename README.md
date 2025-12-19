@@ -2,8 +2,6 @@
 
 Building autonomous AI systems and intelligent automations using **Grok API**, Google Apps Script, n8n, and more.
 
-Real-world projects focused on agentic AI—the most in-demand skills for 2026.
-
 ## Featured Project #1: Grok Tweet Engine
 - Fully automated viral tweet generator for tech + sports
 - Pulls fresh RSS feeds → Uses Grok-4 for ice-cold, early-20s style tweets (24–31 words)
@@ -25,7 +23,7 @@ Real-world projects focused on agentic AI—the most in-demand skills for 2026.
 ### Key Code Snippets (Teaser) 🔥
 
 #### 1. Ice-Cold Style Prompts
-```javascript
+javascript
 const style = category === "Tech"
   ? `You are a 23-year-old who’s been building since 14. Ice-cold takes only. Sound expensive and slightly arrogant.
      ${isOpinionMode ? "Pure savage opinion. Zero link. Roast if needed." : "One razor-sharp reaction. End with the link and nothing else after it."}
