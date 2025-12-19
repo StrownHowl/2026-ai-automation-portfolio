@@ -24,14 +24,15 @@ More projects coming soon:
 
 ### Successful Run Demos
 
-![Engine Menu & Overview](Engine.png)
+![Engine Menu](Engine.png)
 
-![Tech Tweets Generated](tech.png)
+![Tech Sheet](tech.png)
 
-![Success Confirmation](success.png)
+![Sports Sheet 1](Sports%20tweet.png)
 
-![Sports Tweets Generated](Sports.png)
+![Sports Sheet 2](sports.png)
 
+![Success](success.png)
 
 ⭐ Star if you're building the future!
 
