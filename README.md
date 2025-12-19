@@ -22,6 +22,17 @@ More projects coming soon:
 - RSS Feeds
 - AI Agents & Automation
 
+### Successful Run Demos
+
+![Engine Menu & Overview](Engine.png)
+
+![Tech Tweets Generated](tech.png)
+
+![Sports Tweets Generated](Sports tweet.png)
+
+![Success Confirmation](success.png)
+
+
 ⭐ Star if you're building the future!
 
 *Watch this repo—updates weekly.*
