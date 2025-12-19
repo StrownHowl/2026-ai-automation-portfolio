@@ -37,5 +37,5 @@ More projects coming soon:
 - RSS Feeds
 - AI Agents & Automation
 
-⭐ Star if you're building the future!  
-*Watch this repo—updates weekly.*
+I was irritated doing this but dit it anyway
+Watch this repo—updates weekly.
