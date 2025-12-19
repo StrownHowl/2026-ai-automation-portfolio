@@ -28,7 +28,7 @@ More projects coming soon:
 
 ![Tech Tweets Generated](tech.png)
 
-![Sports Tweets Generated](Sports tweet.png)
+![Sports Tweets Generated](Sports.png)
 
 ![Success Confirmation](success.png)
 
